@@ -1,0 +1,30 @@
+.analysis-card{
+    background:#1d2738;
+    padding:25px;
+    border-radius:20px;
+    color:white;
+    flex:1;
+}
+
+.analysis-card h2{
+    margin-bottom:10px;
+}
+
+.analysis-card p{
+    color:#bfc8d4;
+    margin-bottom:20px;
+}
+
+.analysis-card button{
+    background:#4f46e5;
+    color:white;
+    border:none;
+    padding:12px 22px;
+    border-radius:10px;
+    cursor:pointer;
+    font-size:16px;
+}
+
+.analysis-card button:hover{
+    background:#4338ca;
+}

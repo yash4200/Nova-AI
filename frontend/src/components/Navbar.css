@@ -1,0 +1,43 @@
+.navbar{
+
+position:fixed;
+
+top:0;
+
+left:260px;
+
+right:0;
+
+height:70px;
+
+background:#111827;
+
+display:flex;
+
+align-items:center;
+
+justify-content:space-between;
+
+padding:0 30px;
+
+border-bottom:1px solid rgba(255,255,255,.08);
+
+z-index:100;
+
+}
+
+.navbar h2{
+
+color:#3b82f6;
+
+}
+
+@media(max-width:900px){
+
+.navbar{
+
+left:0;
+
+}
+
+}

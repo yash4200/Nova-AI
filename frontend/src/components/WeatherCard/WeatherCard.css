@@ -1,0 +1,18 @@
+.weather-card{
+    flex:1;
+    background:#131d36;
+    border-radius:18px;
+    padding:20px;
+    color:white;
+}
+
+.weather-header{
+    display:flex;
+    gap:10px;
+    align-items:center;
+}
+
+.weather-card h1{
+    margin:20px 0 10px;
+    font-size:42px;
+}

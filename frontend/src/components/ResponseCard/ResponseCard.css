@@ -1,0 +1,25 @@
+.response-card{
+
+background:#1d2738;
+
+margin-top:20px;
+
+padding:25px;
+
+border-radius:20px;
+
+color:white;
+
+}
+
+.response-card pre{
+
+white-space:pre-wrap;
+
+font-size:15px;
+
+line-height:1.6;
+
+color:#d7e0ea;
+
+}

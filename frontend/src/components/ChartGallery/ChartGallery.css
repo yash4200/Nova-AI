@@ -1,0 +1,43 @@
+.chart-gallery{
+
+margin-top:25px;
+
+background:#1d2738;
+
+padding:25px;
+
+border-radius:20px;
+
+color:white;
+
+}
+
+.charts{
+
+display:grid;
+
+grid-template-columns:repeat(auto-fit,minmax(300px,1fr));
+
+gap:20px;
+
+margin-top:20px;
+
+}
+
+.charts img{
+
+width:100%;
+
+border-radius:15px;
+
+box-shadow:0 5px 20px rgba(0,0,0,.4);
+
+transition:.3s;
+
+}
+
+.charts img:hover{
+
+transform:scale(1.03);
+
+}
